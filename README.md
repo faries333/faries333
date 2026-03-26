@@ -50,3 +50,18 @@ Currently, I’m working on a **Human Following Robot** using computer vision an
 
 📫 **Let's Connect**
 I'm always open to learning and collaborating on projects related to **Robotics, AI, and Embedded Systems**.
+
+<!-- Social Buttons -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/khader-faries/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+   <a href="https://mail.google.com/mail/?view=cm&to=faries.career@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://faries333.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
